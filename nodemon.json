@@ -1,0 +1,12 @@
+{
+  "script": "./bin/www",
+  "ignore": [
+    "build",
+    "client",
+    "data",
+    "migrations",
+    "node_modules",
+    "seeds"
+  ],
+  "verbose": false
+}
