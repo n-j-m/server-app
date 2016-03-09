@@ -8,7 +8,7 @@ server app starter kit
 
 Clone the repo and initialize git:
 ```
-git clone git@github.com:n-j-m/app your_project
+git clone https://github.com/n-j-m/server-app your_project
 cd your_project
 rm -rf .git
 git init
